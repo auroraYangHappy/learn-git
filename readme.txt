@@ -1,2 +1,2 @@
 Git is a distributed  version control system.
-This is yangjin's first git.
+This is super yangjin's first git.
